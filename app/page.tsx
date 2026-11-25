@@ -9,7 +9,7 @@ export default function Home() {
       </h1>
 
       <p className="mt-2">
-        Welcome to my Next.js app.
+        Welcome to my Next.js app
       </p>
 
       <Link
